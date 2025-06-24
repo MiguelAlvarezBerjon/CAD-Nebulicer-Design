@@ -1,0 +1,1 @@
+This project was carried out between September and December 2022, in collaboration with Jorge Arnaldo, under the guidance of Fernando Viadero from the Mechanics Department at Universidad carlos III de Madrid.
